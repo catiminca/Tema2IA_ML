@@ -1,0 +1,68 @@
+Data Train
+Unique values: 
+cardiovascular_issues: 2
+job_category: 5
+sex: 2
+tobacco_usage: 4
+high_blood_pressure: 2
+married: 3
+living_area: 2
+chaotic_sleep: 2
+cerebrovascular_accident: 2
+
+Not missing values: 
+cardiovascular_issues: 4088
+job_category: 4088
+sex: 4088
+tobacco_usage: 4088
+high_blood_pressure: 4088
+married: 3577
+living_area: 4088
+chaotic_sleep: 4088
+cerebrovascular_accident: 4088
+
+Data Test
+Unique values: 
+cardiovascular_issues: 2
+job_category: 5
+sex: 2
+tobacco_usage: 4
+high_blood_pressure: 2
+married: 2
+living_area: 2
+chaotic_sleep: 2
+cerebrovascular_accident: 2
+
+Not missing values: 
+cardiovascular_issues: 1022
+job_category: 1022
+sex: 1022
+tobacco_usage: 1022
+high_blood_pressure: 1022
+married: 1022
+living_area: 1022
+chaotic_sleep: 1022
+cerebrovascular_accident: 1022
+
+Data Full
+Unique values: 
+cardiovascular_issues: 2
+job_category: 5
+sex: 2
+tobacco_usage: 4
+high_blood_pressure: 2
+married: 3
+living_area: 2
+chaotic_sleep: 2
+cerebrovascular_accident: 2
+
+Not missing values: 
+cardiovascular_issues: 5110
+job_category: 5110
+sex: 5110
+tobacco_usage: 5110
+high_blood_pressure: 5110
+married: 4599
+living_area: 5110
+chaotic_sleep: 5110
+cerebrovascular_accident: 5110

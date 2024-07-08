@@ -1,0 +1,74 @@
+Data Train
+Unique values: 
+relation: 6
+country: 40
+job: 14
+work_type: 9
+partner: 7
+edu: 16
+gender: 3
+race: 5
+gtype: 2
+money: 2
+
+Not missing values: 
+relation: 7999
+country: 7999
+job: 7999
+work_type: 7999
+partner: 7999
+edu: 7999
+gender: 7199
+race: 7999
+gtype: 7999
+money: 7999
+
+Data Test
+Unique values: 
+relation: 6
+country: 38
+job: 14
+work_type: 8
+partner: 7
+edu: 16
+gender: 2
+race: 5
+gtype: 2
+money: 2
+
+Not missing values: 
+relation: 2000
+country: 2000
+job: 2000
+work_type: 2000
+partner: 2000
+edu: 2000
+gender: 2000
+race: 2000
+gtype: 2000
+money: 2000
+
+Data Full
+Unique values: 
+relation: 6
+country: 41
+job: 14
+work_type: 9
+partner: 7
+edu: 16
+gender: 3
+race: 5
+gtype: 2
+money: 2
+
+Not missing values: 
+relation: 9999
+country: 9999
+job: 9999
+work_type: 9999
+partner: 9999
+edu: 9999
+gender: 9199
+race: 9999
+gtype: 9999
+money: 9999
